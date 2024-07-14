@@ -20,7 +20,7 @@ A user-friendly loan calculator application built with PyQt5. This tool allows u
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/loan-calculator.git
+    git clone https://github.com/SiddharthSan/loan-calculator.git
     ```
 
 2. Change into the project directory:
@@ -29,9 +29,6 @@ A user-friendly loan calculator application built with PyQt5. This tool allows u
     ```
 
 3. Install the required dependencies:
-    ```sh
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 
